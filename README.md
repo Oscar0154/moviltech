@@ -29,8 +29,6 @@ Este proyecto es una tienda en línea de celulares llamada MovilTech, donde los 
 * `styles.css`: Archivo de estilos CSS.
 * `script.js`: Archivo JavaScript para la funcionalidad del carrito.
 * `compra.js`: Archivo JavaScript para la página de compra.
-* `imagenes/`: Carpeta que contiene las imágenes de los celulares.
-
 
 ## Autores
 
@@ -40,4 +38,5 @@ Este proyecto es una tienda en línea de celulares llamada MovilTech, donde los 
 
 ## Contacto
 
-acos
+acostaoscar0112@gmail.com
+bryant.rod71@gmail.com
