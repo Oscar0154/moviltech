@@ -29,7 +29,7 @@ nav {
     color: black;
     border: 1px solid #ccc;
     padding: 10px;
-    display: none; 
+    display: none;
 }
 
 .cart:hover .cart-items {
@@ -81,43 +81,38 @@ nav {
 }
 
 
-.resumen-compra {
-    width: 80%;
-    margin: 20px auto;
-    border: 1px solid #ccc;
+.creadores {
+    display: flex;
+    justify-content: space-around;
     padding: 20px;
 }
 
-.resumen-compra h2 {
+.creador {
     text-align: center;
-    margin-bottom: 20px;
 }
 
-#carrito-resumen {
-    margin-bottom: 20px;
+.creador img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
 }
 
-#carrito-resumen p {
-    border-bottom: 1px solid #eee;
-    padding: 10px 0;
-}
-
-#total-resumen {
-    font-weight: bold;
-    font-size: 1.2em;
-    text-align: right;
-    margin-bottom: 20px;
-}
-
-.btn-comprar {
-    background-color: #4CAF50;
+.btn-creadores {
+    background-color: #007bff; 
     color: white;
     border: none;
-    padding: 10px 15px;
+    padding: 10px 20px;
     text-align: center;
     text-decoration: none;
-    display: block;
-    width: 200px;
-    margin: 20px auto;
+    display: inline-block;
+    font-size: 16px;
+    margin: 20px auto; 
     cursor: pointer;
+    border-radius: 5px; 
+    transition: background-color 0.3s ease; 
+}
+
+.btn-creadores:hover {
+    background-color: #0056b3; 
 }
