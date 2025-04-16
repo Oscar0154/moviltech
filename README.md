@@ -1,4 +1,4 @@
-# MovilTech - Tienda de Celulares
+# MovilTech
 
 Este proyecto es una tienda en línea de celulares llamada MovilTech, donde los usuarios pueden explorar y comprar una variedad de teléfonos móviles.
 
